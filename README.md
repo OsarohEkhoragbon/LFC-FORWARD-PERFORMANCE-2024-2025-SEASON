@@ -56,3 +56,8 @@ Manual data aggregation and formula-based calculations:
 
 💡 Purpose & Impact
 This dashboard was created to track and compare Liverpool’s attacking efficiency, highlight player strengths and weaknesses, and assist fans, analysts, and scouts in understanding player contributions in a single glance.
+
+Tools: Microsoft Excel
+
+Inspired by: Liverpool FC analytics community & modern football stats visualization
+

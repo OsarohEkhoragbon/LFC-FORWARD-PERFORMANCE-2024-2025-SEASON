@@ -46,14 +46,6 @@ Conditional Formatting
 
 Manual Data Slicing for interactive storytelling
 
-Manual data aggregation and formula-based calculations:
-
-=IFERROR() for error handling
-
-=SUMIFS() for conditional totals
-
-=AVERAGEIFS() for performance rate calculations
-
 ## 💡 Purpose & Impact
 This dashboard was created to track and compare Liverpool’s attacking efficiency, highlight player strengths and weaknesses, and assist fans, analysts, and scouts in understanding player contributions in a single glance.
 

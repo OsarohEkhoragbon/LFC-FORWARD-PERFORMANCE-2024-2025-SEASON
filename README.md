@@ -46,6 +46,8 @@ Conditional Formatting
 
 Manual Data Slicing for interactive storytelling
 
+Excel Functions
+
 ## 💡 Purpose & Impact
 This dashboard was created to track and compare Liverpool’s attacking efficiency, highlight player strengths and weaknesses, and assist fans, analysts, and scouts in understanding player contributions in a single glance.
 
